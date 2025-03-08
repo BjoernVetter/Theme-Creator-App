@@ -1,0 +1,16 @@
+.theme-list-container {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 20px;
+
+
+}
+
+
+
+.theme-name {
+font-size: 26px;
+font-weight: bold;
+margin-bottom: 15px;
+}
