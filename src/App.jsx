@@ -1,5 +1,4 @@
 import React from "react";
-import ThemeDisplay from "./components/ThemeDisplay";
 import "./App.css";
 import ThemeList from "./components/ThemeList";
 
